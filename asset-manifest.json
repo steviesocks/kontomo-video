@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kontomo-video/static/css/main.19255722.chunk.css",
+    "main.js": "/kontomo-video/static/js/main.f16a98d4.chunk.js",
+    "main.js.map": "/kontomo-video/static/js/main.f16a98d4.chunk.js.map",
+    "runtime-main.js": "/kontomo-video/static/js/runtime-main.edf827c4.js",
+    "runtime-main.js.map": "/kontomo-video/static/js/runtime-main.edf827c4.js.map",
+    "static/js/2.8ad6346a.chunk.js": "/kontomo-video/static/js/2.8ad6346a.chunk.js",
+    "static/js/2.8ad6346a.chunk.js.map": "/kontomo-video/static/js/2.8ad6346a.chunk.js.map",
+    "static/js/3.3b71f553.chunk.js": "/kontomo-video/static/js/3.3b71f553.chunk.js",
+    "static/js/3.3b71f553.chunk.js.map": "/kontomo-video/static/js/3.3b71f553.chunk.js.map",
+    "index.html": "/kontomo-video/index.html",
+    "static/css/main.19255722.chunk.css.map": "/kontomo-video/static/css/main.19255722.chunk.css.map",
+    "static/js/2.8ad6346a.chunk.js.LICENSE.txt": "/kontomo-video/static/js/2.8ad6346a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edf827c4.js",
+    "static/js/2.8ad6346a.chunk.js",
+    "static/css/main.19255722.chunk.css",
+    "static/js/main.f16a98d4.chunk.js"
+  ]
+}
